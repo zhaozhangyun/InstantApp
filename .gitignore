@@ -1,0 +1,12 @@
+*.iml
+.idea
+.gradle
+/app/*.iml
+/build
+/commonUtils/build
+/libMarsdaemon/build
+/libMarsdaemon/obj
+/libMarsdaemon/.externalNativeBuild
+local.properties
+un7zip/.externalNativeBuild
+app/.externalNativeBuild
